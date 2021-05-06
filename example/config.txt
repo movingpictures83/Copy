@@ -1,0 +1,2 @@
+Prefix plugins/Copy/example
+Plugin Copy inputfile output.shared outputfile output.copy.shared
